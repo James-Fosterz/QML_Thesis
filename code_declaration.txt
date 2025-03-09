@@ -1,0 +1,21 @@
+This declaration serves as a reference to the codebases in this repository and the extent to which they have borrowed 
+code from / are based upon other sources and where it comes from.
+
+grover.ipynb (~30% my code)
+(primarily used to genertaqe results and plots to support explanations)
+	based upon:
+		https://www.udemy.com/course/quantum-computers/learn/lecture/27151884#overview
+		https://github.com/atilsamancioglu/QX08-GroversAlgorithm/blob/main/QX08-GroversAlgorithm.ipynb
+	code for calls to real quantum computers based on IBM package
+
+quantum_neural_network.ipynb (~20% my code)
+(primarily used to generate results, plots and to support explanations)
+	https://github.com/qiskit-community/qiskit-machine-learning
+
+custom_quantum_walk.ipynb (~70% my code)
+(the primary work product of the report)
+	mark states modified from: 
+		https://learning.quantum.ibm.com/tutorial/grovers-algorithm
+	code for calls to real quantum computers based on IBM package
+	rest is my own code
+		
